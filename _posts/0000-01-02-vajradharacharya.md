@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Luck favours the prepared mind-Pasteur
 Use the left arrow to go back!
